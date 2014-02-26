@@ -2,12 +2,14 @@
 <addons>
 <addon
   id="plugin.video.SportsDevil"
-  version="1.8.6.2"
+  version="1.8.6.3"
   name="SportsDevil"
   provider-name="MaxMustermann">
   <requires>
    <import addon="xbmc.python" version="2.1.0"/>
    <import addon="script.common.plugin.cache" version="0.9.1"/>
+   <import addon="plugin.video.youtube" version="2.9.2"/>
+   <import addon="plugin.video.dailymotion_com" version="2.1.2"/>
   </requires>
   <extension
     point="xbmc.python.pluginsource"
