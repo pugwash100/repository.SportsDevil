@@ -1,10 +1,20 @@
 ------------------------------
+v 1.8.6.5 (31-Mar-14)
+------------------------------
+- MilhouseVH has improved regex performance which will improve loading time
+- Updated VipBox.tv
+- Updated LiveFootballVideo.com
+- Fixed CricFire.com in Highlights
+- Added VaughnLive.tv to Live TV (Thanks to pmolson for help with url resolution)
+- Some minor catcher updates
+
+------------------------------
 v 1.8.6.4 (15-Mar-14)
 ------------------------------
 - Added bundesliga-streams.net to Live Sports
 - Updated Ace links(thanks to sattekop)
 - Fixed hdfooty.tv and iGole.tv in Sports TV
-- SopCast links are now streamed with P2P Streams plugin.
+- SopCast links are now streamed with P2P Streams plugin
 - Some minor catcher updates
 
 ------------------------------
@@ -23,9 +33,8 @@ v 1.8.6.2 (16-Feb-14)
 ------------------------------
 v 1.8.6.1 (15-Feb-14)
 ------------------------------ 
-- AceStreams can now be streamed with external player or P2P Streams plugin.
+- AceStreams can now be streamed with external player or P2P Streams plugin
 - Lots of minor catcher fixes.
-
 
 ------------------------------
 v 1.8.6 (15-Feb-14)
